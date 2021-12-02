@@ -1,16 +1,7 @@
-# instagram_deneme
+# Instagram_UI_Design
 
 A new Flutter project.
+![Instagram_Scrolling](https://user-images.githubusercontent.com/94606699/144447207-0f086841-a029-4da0-bebe-533ca6be1a5d.gif)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+An Instagram homepage design experiment with Flutter, 
+different photos can be used but I used 2 photos to better understand how it works. :)
